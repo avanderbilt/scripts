@@ -1,2 +1,2 @@
 #!/bin/bash
-cmd.exe /c start "Launching from BASH" "$*"
+cmd.exe /c start "Launching from WSL ..." "$*"
